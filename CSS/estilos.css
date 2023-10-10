@@ -165,8 +165,8 @@ body{
 /* knowledge */ 
 
 .knowledge{
-    background-color: #a7a7ff;
-    background-image:  radial-gradient(#0268e6 0.45px, transparent 0.45px), radial-gradient(#0268e6 0.45px, #a7a7ff 0.45px);
+    background-color: #00a6ff;
+    background-image:  radial-gradient(#0268e6 0.45px, transparent 0.45px), radial-gradient(#0268e6 0.45px, #00a6ff 0.45px);
     background-size: 18px 18px;
     background-position: 0 0,9px 9px;
     overflow: hidden;
@@ -186,6 +186,7 @@ body{
 .knowledge__paragraph{
     line-height: 1.7;
     margin-bottom: 15px;
+    color: #fff;
 }
 
 .knowledge__img{
@@ -224,10 +225,10 @@ body{
 .price__element--best{
     width: 370px;
     padding: 60px 40px;
-    background-color: #FF7143;
+    background-color: #243bbc;
     --color-plan: rgb(255 255 255 / 75%);
     --color-price: #fff;
-    --bg-cta: #9f3919;
+    --bg-cta: #5382ce;
     --color-cta: #fff;
     --color-items: #fff;
 }
@@ -396,7 +397,7 @@ body{
 /* Footer */
 
 .footer{
-    background-color: #1D293F;
+    background-color: #000080;
 }
 
 .footer__title{
