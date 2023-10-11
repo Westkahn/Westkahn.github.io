@@ -192,6 +192,7 @@ body{
 .knowledge__img{
     width: 100%;
     display: block;
+    border-radius: 70px;
 }
 
 /* price */ 
